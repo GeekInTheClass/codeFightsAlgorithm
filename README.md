@@ -1,9 +1,9 @@
-# codeFightsAlgorithm
+# codeFightsAlgorithm #
 
 My solutions to some of the Arcade(Testing)
 
 
-## Complete View List ##
+## Complete List ##
 
 - [ ] Intro
 - [ ] Databases
@@ -11,6 +11,6 @@ My solutions to some of the Arcade(Testing)
 - [ ] Python
 - [ ] Graphs
 
-## LINK
+## LINK ##
 
 [codefights.com](https://www.codefights.com)
