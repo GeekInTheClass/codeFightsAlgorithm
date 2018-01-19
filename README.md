@@ -5,11 +5,7 @@ My solutions to some of the Arcade(Testing)
 
 ## Complete List ##
 
-- [ ] Intro
-- [ ] Databases
-- [ ] The Core
-- [ ] Python
-- [ ] Graphs
+안녕하세요?
 
 ## LINK ##
 
